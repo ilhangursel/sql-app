@@ -1,1 +1,4 @@
- 
+-- SQL KOMUTLARI NOTLARIM
+
+-- SELECT KOMUTU
+SELECT * FROM [dummy].[dbo].[PERSON]
