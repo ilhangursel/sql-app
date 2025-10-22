@@ -1,0 +1,16 @@
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# User-specific files
+*.user
+*.suo
+
+# VS Code directories
+.vscode/
+.vs/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
