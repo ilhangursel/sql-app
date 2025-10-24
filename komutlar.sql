@@ -1,4 +1,22 @@
 -- SQL KOMUTLARI NOTLARIM
 
+-- bölüm 1 :  local db server name --> (localdb)\MSSQLLocalDB
+
+
+--   BÖLÜM 3 -TEMEL SQL KOMUTLARI
 -- SELECT KOMUTU
 SELECT * FROM [dummy].[dbo].[PERSON]
+
+
+select * from PERSON
+
+UPDATE PERSON SET AGE=1
+select * from person
+
+TRUNCATE TABLE PERSON
+
+SELECT * INTO CURSTOEMERYEDEK FROM PERSON
+
+SELECT * FROM CURSTOEMERYEDEK
+
+SELECT * FROM PERSON WHERE name = 'ilhan'
